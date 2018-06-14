@@ -3,6 +3,9 @@ if (/zhangxinxu|localhost/.test(location.href)==false) { alert('含外链JS资�
 * http://www.zhangxinxu.com/
 * 倒计时的实现
 */
+
+
+sdfsdfgsfgsf
 var fnTimeCountDown = function(d, o){
 	var f = {
 		zero: function(n){
